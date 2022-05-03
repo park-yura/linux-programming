@@ -16,7 +16,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### 1. Apache와 Tomcat 연동, webserver활용 및 app에 따른 요청 분배
+## 1. Apache와 Tomcat 연동, webserver활용 및 app에 따른 요청 분배
 [유튜브 영상]()
 ### 로드 밸런스란?
 - 서버에 가해지는 부하(=로드)를 분산(=밸런싱)해주는 장치 또는 기술
@@ -33,7 +33,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - Cluster : 여러 대의 웹로직 서버 인스턴스를 묶어 부하분산과 장애 복구 기능을 제공하여 클라이언트에게 중단없는 서비스를 제공하는 기능
 
 
-### 3. Google Cloud Platform Compute engine 위에서 Apache-Tomcat  설치, 연동, App deploy
+## 3. Google Cloud Platform Compute engine 위에서 Apache-Tomcat  설치, 연동, App deploy
 [유튜브 영상]()
 ### 방화벽 해제 방법
 - Google Cloud Platform Console에서 VPC 네트워크 메뉴에서 '방화벽' 선택
