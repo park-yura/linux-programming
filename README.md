@@ -19,9 +19,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### 1. Apache와 Tomcat 연동, webserver활용 및 app에 따른 요청 분배
 [유튜브 영상]()
 ### 로드 밸런스란?
-서버에 가해지는 부하(=로드)를 분산(=밸런싱)해주는 장치 또는 기술
-클라이언트와 서버풀(Server Pool, 분산 네트워크를 구성하는 서버들의 그룹) 사이에 위치하며, 한 대의 서버로 부하가 집중되지 않도록 트래픽을 관리해 각각의 서버가 최적의 퍼포먼스를 보일 수 있도록 함
-apache가 tomcat에게 url을 기반으로 요청을 분배![image](https://user-images.githubusercontent.com/100885980/166404564-d59310b2-028e-4933-adfd-d3908a3bad8f.png)
+- 서버에 가해지는 부하(=로드)를 분산(=밸런싱)해주는 장치 또는 기술
+- 클라이언트와 서버풀(Server Pool, 분산 네트워크를 구성하는 서버들의 그룹) 사이에 위치하며, 한 대의 서버로 부하가 집중되지 않도록 트래픽을 관리해 각각의 서버가 최적의 퍼포먼스를 보일 수 있도록 함
+- apache가 tomcat에게 url을 기반으로 요청을 분배
 
 ## 2. Oracle Weblogic 설치 및 app deploy
 [유튜브 영상]()
